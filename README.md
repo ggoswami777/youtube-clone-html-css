@@ -15,7 +15,7 @@ The components of this codebase work together to create a visually appealing and
 # Installation:
 1. Clone the codebase repository to your local machine.
 2. Open the codebase in your preferred code editor.
-3. Open the index.html file in your web browser to view the website.
+3. Open the youtube.html file in your web browser to view the website.
 
 # Configuration:
 There are no specific environment variables or settings required for this codebase. However, if you plan to deploy the website to Azure, you will need to follow the Azure-specific configurations for deployment.
