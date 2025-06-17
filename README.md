@@ -7,6 +7,10 @@ This project is a codebase for a YouTube clone website. It includes styles for t
 # Architecture:
 The components of this codebase work together to create a visually appealing and functional YouTube clone website. The header and sidebar styles provide a consistent and recognizable layout for users, while the video preview styles allow for easy navigation and viewing of videos. The specific styles for the video thumbnail, title, author, and time add to the overall aesthetic of the website.
 
+#Screenshots
+![Screenshot 2025-06-17 113839](https://github.com/user-attachments/assets/d26bc4e3-e201-4eb0-9beb-6715523b2aae)
+
+
 # Prerequisites:
 - A code editor such as Visual Studio Code or Atom
 - A web browser
